@@ -1,0 +1,6 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\acmeAccounting\bin\Debug\acmeAccounting.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\acmeAccounting\bin\Debug\acmeAccounting.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\acmeAccounting\bin\Debug\acmeAccounting.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\acmeAccounting\obj\Debug\acmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\acmeAccounting\obj\Debug\acmeAccounting.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\acmeAccounting\obj\Debug\acmeAccounting.pdb

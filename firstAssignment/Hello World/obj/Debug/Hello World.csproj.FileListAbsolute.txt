@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\bin\Debug\Hello World.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\obj\Debug\Hello World.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\obj\Debug\Hello World.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\firstAssignment\Hello World\obj\Debug\Hello World.pdb
