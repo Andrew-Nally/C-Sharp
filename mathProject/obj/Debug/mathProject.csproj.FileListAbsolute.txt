@@ -1,0 +1,7 @@
+C:\Users\Tyler\source\repos\mathProject\bin\Debug\mathProject.exe.config
+C:\Users\Tyler\source\repos\mathProject\bin\Debug\mathProject.exe
+C:\Users\Tyler\source\repos\mathProject\bin\Debug\mathProject.pdb
+C:\Users\Tyler\source\repos\mathProject\obj\Debug\mathProject.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\mathProject\obj\Debug\mathProject.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\mathProject\obj\Debug\mathProject.exe
+C:\Users\Tyler\source\repos\mathProject\obj\Debug\mathProject.pdb
