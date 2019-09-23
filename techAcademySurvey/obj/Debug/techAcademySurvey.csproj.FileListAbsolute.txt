@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\bin\Debug\techAcademySurvey.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\bin\Debug\techAcademySurvey.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\bin\Debug\techAcademySurvey.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\obj\Debug\techAcademySurvey.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\obj\Debug\techAcademySurvey.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\obj\Debug\techAcademySurvey.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\techAcademySurvey\obj\Debug\techAcademySurvey.csprojAssemblyReference.cache
