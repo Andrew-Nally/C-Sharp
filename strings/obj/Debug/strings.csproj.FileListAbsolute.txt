@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\bin\Debug\strings.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\bin\Debug\strings.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\bin\Debug\strings.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\obj\Debug\strings.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\obj\Debug\strings.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\strings\obj\Debug\strings.pdb
