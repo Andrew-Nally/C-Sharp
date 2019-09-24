@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\bin\Debug\loops.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\bin\Debug\loops.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\bin\Debug\loops.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\obj\Debug\loops.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\loops\obj\Debug\loops.pdb

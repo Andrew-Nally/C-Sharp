@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\bin\Debug\whileStatement.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\bin\Debug\whileStatement.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\bin\Debug\whileStatement.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\obj\Debug\whileStatement.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\obj\Debug\whileStatement.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\obj\Debug\whileStatement.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\whileStatement\obj\Debug\whileStatement.pdb
