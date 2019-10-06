@@ -66,33 +66,25 @@ namespace loopsProject
                 }
             }
 
-            List<string> pets = new List<string>() {"dog", "cat", "bird", "snake", "tiger"};
+            List<string> pets = new List<string>() { "dog", "bird", "cat", "emu", "tiger", "koala" };
+            Console.WriteLine("\nWould you like to own a dog, bird, cat, emu, tigard or koala?");
 
-            Console.WriteLine("\nWould you rather own a dog, cat, bird, snake or tiger?");
-
-            int varCount = 0;
             foreach (string pet in pets)
-            {  
-                while (varCount == 0)
+            {
+                string petChoice = Console.ReadLine();
+                while (!pets.Contains(petChoice))
                 {
-                    string petChoice = Console.ReadLine();
-
-                    if (petChoice == pet) {
-                        Console.WriteLine("\n" + petChoice + " is item " + pets.IndexOf(petChoice) + " in our list.");
-                        // I have a question about this. I don't want it to say "dog is number 0 in our list". I researched and researched it.
-                        // Everything I tried didn't work. IndexOf(petChoice + 1) doesn't work.
-                        // Since this meets the requirments of the subject, I figure I won't spend more time on it and leave it as is.
-                        // But I'd love to know the answer if you do....
-                        varCount = (varCount++);
-                        break;
-                    }
-
-                    else
-                    {
-                        Console.WriteLine("Please choose dog, cat, bird, snake or tiger");
-                    }
+                    Console.WriteLine("Please choose between a dog, bird, cat, emu, tiger or koala.");
+                    Console.WriteLine("\nWould you like to own a dog, bird, cat, emu, tigard or koala?");
+                    petChoice = Console.ReadLine();
                 }
-                break;
+
+                if (pets.Contains(petChoice))
+                {
+                    Console.WriteLine(petChoice + " is number " + pets.IndexOf(petChoice) + " in our list.");
+                    break;
+                }
+                
             }
 
             List<string> colors = new List<string>() { "red", "blue", "yellow", "red", "blue", "yellow", "yellow" };
