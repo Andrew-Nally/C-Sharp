@@ -1,0 +1,7 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\bin\Debug\exceptionProject.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\bin\Debug\exceptionProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\bin\Debug\exceptionProject.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\obj\Debug\exceptionProject.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\obj\Debug\exceptionProject.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\obj\Debug\exceptionProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\exceptionProject\exceptionProject\obj\Debug\exceptionProject.pdb
