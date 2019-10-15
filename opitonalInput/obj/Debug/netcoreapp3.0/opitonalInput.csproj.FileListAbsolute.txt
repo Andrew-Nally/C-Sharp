@@ -1,0 +1,11 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\bin\Debug\netcoreapp3.0\opitonalInput.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\bin\Debug\netcoreapp3.0\opitonalInput.deps.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\bin\Debug\netcoreapp3.0\opitonalInput.runtimeconfig.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\bin\Debug\netcoreapp3.0\opitonalInput.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\bin\Debug\netcoreapp3.0\opitonalInput.dll
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\bin\Debug\netcoreapp3.0\opitonalInput.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\obj\Debug\netcoreapp3.0\opitonalInput.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\obj\Debug\netcoreapp3.0\opitonalInput.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\obj\Debug\netcoreapp3.0\opitonalInput.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\obj\Debug\netcoreapp3.0\opitonalInput.dll
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\opitonalInput\obj\Debug\netcoreapp3.0\opitonalInput.pdb
