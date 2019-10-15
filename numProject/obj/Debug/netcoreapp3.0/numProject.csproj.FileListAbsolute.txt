@@ -1,0 +1,11 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\bin\Debug\netcoreapp3.0\numProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\bin\Debug\netcoreapp3.0\numProject.deps.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\bin\Debug\netcoreapp3.0\numProject.runtimeconfig.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\bin\Debug\netcoreapp3.0\numProject.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\bin\Debug\netcoreapp3.0\numProject.dll
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\bin\Debug\netcoreapp3.0\numProject.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\obj\Debug\netcoreapp3.0\numProject.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\obj\Debug\netcoreapp3.0\numProject.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\obj\Debug\netcoreapp3.0\numProject.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\obj\Debug\netcoreapp3.0\numProject.dll
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\numProject\obj\Debug\netcoreapp3.0\numProject.pdb
