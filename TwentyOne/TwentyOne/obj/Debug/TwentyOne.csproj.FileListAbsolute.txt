@@ -2,6 +2,5 @@ C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyO
 C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
 C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
 C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
-C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
