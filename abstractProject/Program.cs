@@ -15,6 +15,9 @@ namespace abstractProject
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
+
+            IQuittable employ = new Employee();
+            employ.Quit();
         }
     }
 }
