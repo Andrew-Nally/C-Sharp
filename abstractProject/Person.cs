@@ -13,7 +13,7 @@ namespace abstractProject
 
         public virtual void SayName()
         {
-
+            Console.WriteLine("Name: " + firstName + " " + lastName);
         }
     }
 }
