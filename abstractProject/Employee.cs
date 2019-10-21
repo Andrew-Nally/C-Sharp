@@ -9,20 +9,30 @@ namespace abstractProject
     public class Employee : Person, IQuittable
     {
         public int Id { get; set; }
-        public List<Person> Ids { get; set; }
+        public int Id1 { get; set; }
         public override void SayName()
         {
             Console.WriteLine(firstName + " " + lastName);
             Console.ReadLine();
         }
 
-        public static Employee operator +(Person person, Employee employee)
+        public static bool operator ==(Employee employee, Employee employee1)
         {
-            employee.Ids.Add(person);
-            return employee;
+            if (employee.Id == employee1.Id1)
+                return true;
+            else
+                return false;
         }
 
-            public void Quit()
+        public static bool operator !=(Employee employee, Employee employee1)
+        {
+            if (employee.Id != employee1.Id1)
+                return false;
+            else
+                return true;
+        }
+
+        public void Quit()
         {
             Console.WriteLine("Are you sure you want to quit?");
             Console.ReadLine();
