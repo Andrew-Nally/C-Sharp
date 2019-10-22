@@ -14,15 +14,9 @@ namespace abstractProject
             Console.ReadLine();
         }
 
-        public override void SayName1()
+        public static bool operator ==(Employee employee1, Employee employee2)
         {
-            Console.WriteLine(firstName1 + " " + lastName1 + " ID: " + Id1);
-            Console.ReadLine();
-        }
-
-        public static bool operator ==(Employee employee, Employee employee1)
-        {
-            if (employee.Id == employee1.Id1)
+            if (employee1.Id == employee2.Id)
             {
                 return true;
             }
@@ -32,9 +26,9 @@ namespace abstractProject
             }
         }
 
-        public static bool operator !=(Employee employee, Employee employee1)
+        public static bool operator !=(Employee employee1, Employee employee2)
         {
-            if (employee.Id == employee1.Id1)
+            if (employee1.Id != employee2.Id)
             {
                 return false;
             }

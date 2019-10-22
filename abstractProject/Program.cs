@@ -16,16 +16,18 @@ namespace abstractProject
             employee.lastName = "Student";
             employee.Id = 1;
             employee.SayName();
-            employee.firstName1 = "Tyler";
-            employee.lastName1 = "Johnson";
-            employee.Id1 = 2;
-            employee.SayName1();
-            bool employeesAreTheSame = employee.Id == employee.Id1;
+            employee.firstName = "Tyler";
+            employee.lastName = "Johnson";
+            employee.Id = 2;
+            employee.SayName();
+            bool employeesAreTheSame = (employee.employee1 == employee.employee2);
+            Console.WriteLine(employeesAreTheSame);
 
 
 
             IQuittable employ = new Employee();
             employ.Quit();
+            Console.ReadLine();
         }
     }
 }
