@@ -14,9 +14,9 @@ namespace abstractProject
             Console.ReadLine();
         }
 
-        public static bool operator ==(Employee employee1, Employee employee2)
+        public static bool operator ==(Employee employee, Employee employee2)
         {
-            if (employee1.Id == employee2.Id)
+            if (employee.Id == employee2.Id)
             {
                 return true;
             }
@@ -26,9 +26,9 @@ namespace abstractProject
             }
         }
 
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator !=(Employee employee, Employee employee2)
         {
-            if (employee1.Id != employee2.Id)
+            if (employee.Id != employee2.Id)
             {
                 return false;
             }

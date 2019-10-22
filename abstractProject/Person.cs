@@ -12,10 +12,6 @@ namespace abstractProject
         public string lastName { get; set; }
         public int Id { get; set; }
 
-        public int employee1 { get; set; }
-
-        public int employee2 { get; set; }
-
         public virtual void SayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName + " ID: " + Id);
