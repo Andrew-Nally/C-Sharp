@@ -19,7 +19,10 @@ namespace abstractProject
             employee.firstName1 = "Tyler";
             employee.lastName1 = "Johnson";
             employee.Id1 = 2;
-            employee.SayName();
+            employee.SayName1();
+            bool employeesAreTheSame = employee.Id == employee.Id1;
+
+
 
             IQuittable employ = new Employee();
             employ.Quit();
