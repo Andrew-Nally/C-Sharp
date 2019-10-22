@@ -20,7 +20,7 @@ namespace abstractProject
             employee.lastName = "Johnson";
             employee.Id = 2;
             employee.SayName();
-            bool employeesAreTheSame = (employee.employee1 == employee.employee2);
+            bool employeesAreTheSame = (employee1 == employee2);
             Console.WriteLine(employeesAreTheSame);
 
 
