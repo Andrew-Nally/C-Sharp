@@ -10,15 +10,17 @@ namespace abstractProject
     {
         static void Main(string[] args)
         {
-            Employee<T> employee = new Employee<T>();
-            List<string> Things = new List<string>() { "Tyler", "Kinsey", "Patty" };
+            Employee<string> employee = new Employee<string>();
+            Employee<int> employeeInt = new Employee<int>();
+            employee.Things = new List<string>() { "Tyler", "Kinsey", "Patty" };
+            employeeInt.Things = new List<int>() { 50, 60, 70, 80};
 
-            Things.ForEach(Thing => Console.WriteLine(Thing));
+            foreach (var thing in employee.Things)
+                Console.WriteLine(thing);
 
-            IList<int> ThingsInt = new List<int>() { 10, 20, 30, 40 };
+            foreach (var num in employeeInt.Things)
+                Console.WriteLine(num);
 
-            foreach (var Thing in ThingsInt)
-                Console.WriteLine(Thing);
 
             Console.ReadLine();
 
