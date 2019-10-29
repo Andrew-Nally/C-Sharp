@@ -10,6 +10,7 @@ namespace abstractProject
     {
         static void Main(string[] args)
         {
+            Employee<T> employee = new Employee<T>();
             List<string> Things = new List<string>() { "Tyler", "Kinsey", "Patty" };
 
             Things.ForEach(Thing => Console.WriteLine(Thing));
