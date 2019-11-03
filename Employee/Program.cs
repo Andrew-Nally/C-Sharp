@@ -41,7 +41,7 @@ namespace Employee
 
             //lambda below//
             List<ID5> IdNum = new List<ID5> { };
-            List<employee> employees1 = employees.name.Where
+            List<employee> employees1 = employees.id.Where(x => x.id > 5).ToList();
 
 
                 Console.ReadLine();

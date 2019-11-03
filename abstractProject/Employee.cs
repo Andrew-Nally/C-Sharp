@@ -3,13 +3,22 @@ using System.Collections.Generic;
 
 namespace abstractProject
 {
-    public class Employee<T> : Person/*IQuittable*/
+    public class Employee : Person/*IQuittable*/
     {
-        public List<T> Things { get; set; }
+        public string Things { get; set; }
+        public string Emps { get; set; }
         public override void SayName()
         {
             Console.WriteLine(firstName + " " + lastName + " ID: " + Id);
             Console.ReadLine();
+        }
+
+        public string ToList()
+
+        {
+
+            return string.Format("Fruit: {0}, weight: {1}, quantity: {2}", firstName, lastName, Id);
+
         }
     }
 }
