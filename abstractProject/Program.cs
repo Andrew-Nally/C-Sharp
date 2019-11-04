@@ -34,6 +34,11 @@ namespace abstractProject
             for (int j = 0; j < joeList.Count; j++)
                 Console.WriteLine(joeList[j].firstName + " " + joeList[j].lastName + " ID: " + joeList[j].Id);
 
+            List<Employee> joeListLambda = employeeLst.Where(y => y.firstName == "Joe").ToList();
+            Console.WriteLine("\nEmployees with the first name Joe (Same great taste but now with Lambda):");
+            for (int b = 0; b < joeListLambda.Count; b++)
+                Console.WriteLine(joeListLambda[b].firstName + " " + joeListLambda[b].lastName + " ID: " + joeListLambda[b].Id);
+
             List<Employee> idList = employeeLst.Where(x => x.Id > 5).ToList();
 
             Console.WriteLine("\nEmployees with an ID greater than 5:");
