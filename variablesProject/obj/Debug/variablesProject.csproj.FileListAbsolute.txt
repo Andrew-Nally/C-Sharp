@@ -1,0 +1,6 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\variablesProject\bin\Debug\variablesProject.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\variablesProject\bin\Debug\variablesProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\variablesProject\bin\Debug\variablesProject.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\variablesProject\obj\Debug\variablesProject.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\variablesProject\obj\Debug\variablesProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\variablesProject\obj\Debug\variablesProject.pdb

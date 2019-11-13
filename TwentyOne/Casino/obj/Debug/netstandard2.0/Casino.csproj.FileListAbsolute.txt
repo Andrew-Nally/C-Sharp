@@ -1,0 +1,8 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.deps.json
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.dll
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\bin\Debug\netstandard2.0\Casino.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.dll
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\TwentyOne\Casino\obj\Debug\netstandard2.0\Casino.pdb
