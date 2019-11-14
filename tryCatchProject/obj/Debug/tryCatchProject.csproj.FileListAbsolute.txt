@@ -1,0 +1,6 @@
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\tryCatchProject\bin\Debug\tryCatchProject.exe.config
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\tryCatchProject\bin\Debug\tryCatchProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\tryCatchProject\bin\Debug\tryCatchProject.pdb
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\tryCatchProject\obj\Debug\tryCatchProject.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\tryCatchProject\obj\Debug\tryCatchProject.exe
+C:\Users\Tyler\Desktop\Coding\C#\The Tech Academy Basic C-Sharp Projects\tryCatchProject\obj\Debug\tryCatchProject.pdb
