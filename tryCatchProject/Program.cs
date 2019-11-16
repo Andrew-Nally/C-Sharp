@@ -11,7 +11,8 @@ namespace tryCatchProject
         static void Main(string[] args)
         {
             bool validAge = false;
-            while (validAge == false) {
+            while (validAge == false) 
+            {
                 Console.WriteLine("Hi. How old are you?");
                 try
                 {
@@ -22,11 +23,10 @@ namespace tryCatchProject
                     Console.ReadLine();
                     validAge = true;
                 }
-                catch (FormatException)
+                catch ()
                 {
-                    Console.WriteLine("Please enter your age in digits only.");
+
                 }
-                catch (negativeException)
             }
         }
     }
