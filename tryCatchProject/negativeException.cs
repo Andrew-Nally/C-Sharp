@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace tryCatchProject
 {
-    public class negativeException : Exception
+    class NegativeException : Exception
     {
-        public negativeException()
-            : base() { }
-        public negativeException(string message)
-            : base(message) { }
+        public NegativeException(string message) : base(message)
+        {
+        }
     }
 }

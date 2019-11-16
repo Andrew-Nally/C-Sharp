@@ -10,24 +10,21 @@ namespace tryCatchProject
     {
         static void Main(string[] args)
         {
-            bool validAge = false;
-            while (validAge == false) 
-            {
-                Console.WriteLine("Hi. How old are you?");
-                try
-                {
-                    int userAge = Convert.ToInt32(Console.ReadLine());
-                    DateTime userYear = DateTime.Now;
-                    userYear = userYear.AddYears(-userAge);
-                    Console.WriteLine("\nIf you're {0} years old, you were born in or around {1}", userAge, userYear.Year);
-                    Console.ReadLine();
-                    validAge = true;
-                }
-                catch ()
-                {
+            NegativeNum newNumber = new NegativeNum();
 
-                }
+            try
+            {
+                newNumber.userNumber();
             }
+            catch (NegativeException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("An unknown error occurred. Please try again.");
+            }
+            Console.ReadLine();
         }
     }
 }
