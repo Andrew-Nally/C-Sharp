@@ -6,26 +6,17 @@ using System.Threading.Tasks;
 
 namespace variablesProject
 {
-    class Computer
+    public class VariablesProject
     {
-        public Computer()
-        {
-        }
-        public Computer(string type, string monitor, int cores)
-        {
-        }
-        public Computer(string type, string monitor) : this(type, monitor, 4)
-        {
-        }
-        public Computer(string type) : this(type, "HP")
-        {
-        }
         static void Main(string[] args)
         {
             const string schoolName = "The Tech Academy";
             var userName = "Tyler";
             Console.WriteLine("{0} is taking classes at {1}.", userName, schoolName);
-            Console.ReadLine();     
+
+            Computer newComputer = new Computer("Desktop");
+            Console.WriteLine(newComputer.Type + " " + newComputer.Monitor + " " + newComputer.Cores);
+            Console.ReadLine();
         }
     }
 }
